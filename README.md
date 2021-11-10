@@ -34,21 +34,9 @@ A simple web based application that allows the user to play an electronic drumse
 To view and edit the files you can clone the repo from github using the following command:
 
 ```
-git@github.com:JessGiannini/findMeABook
-```
+https://github.com/JessGiannini/drumSetKeyBoard```
 
-After cloning the repo, mongoDB, node and npm must be installed. To install dependencies type:
-```
- npm install
-```
-
-To start the application type:
-
-```
-node run develop
-```
-
-and go to http://localhost:3000/ in your browser.
+Then open in your default browser to view and play with the code.
 
 ## Built With
 
